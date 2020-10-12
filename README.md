@@ -1,7 +1,7 @@
 ### Hi there! I am Yicheng 👋
-I am an penultimate year software engineering student at the University of Auckland. 
-I am interested in web/mobile development and passionate about becoming a full-stack software engineer.
-I am currently learning software architecture and operating system.
+-I am an penultimate year software engineering student at the University of Auckland. 
+-I am interested in web/mobile development and passionate about becoming a full-stack software engineer.
+-I am currently learning software architecture and operating system.
 
 
 <!--
