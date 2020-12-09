@@ -10,8 +10,6 @@
 - 😄 Pronouns: Thinking...
 - ⚡ Fun fact: I am currently playing CSGO and Valorant-.-
 
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="lhsunyc.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
