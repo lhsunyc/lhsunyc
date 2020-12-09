@@ -7,8 +7,8 @@
 - 🔭 I’m currently working on Java development
 - 🌱 I’m currently learning software architecture and operating system!
 - 🤔 I’m looking for help with Java Spring Framwork (or any similar framwork).
-- 😄 Pronouns: Thinking...
-- ⚡ Fun fact: I am currently playing CSGO and Valorant-.-
+- 😄 Pronouns: He and Him
+- ⚡ Fun fact: I play games -.-
 
 ### Connect with me:
 
