@@ -21,13 +21,17 @@
 ---
 
 <details>
-    <summary>:zap: GitHub Stats</summary>
-    <img align="left" alt="lhsunyc's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lhsunyc&show_icons=true&hide_border=true"/>
+  <summary>:zap: Top Language</summary>
+  
+  <img align="left" alt="lhsunyc's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhsunyc&show_icons=true&hide_border=true" />
+
 </details>
 
 <details>
-    <summary>:zap: Top Language</summary>
-    <img align="left" alt="lhsunyc's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhsunyc&show_icons=true&hide_border=true"/>
+  <summary>:zap: GitHub Stats</summary>
+  
+  <img align="left" alt="lhsunyc's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lhsunyc&show_icons=true&hide_border=true" />
+
 </details>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhsunyc)](https://github.com/lhsunyc?tab=repositories)-->
