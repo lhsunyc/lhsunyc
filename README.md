@@ -20,7 +20,10 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lhsunyc&show_icons=true&hide_border=true"/>
+<details>
+    <summary>:zap: GitHub Stats</summary>
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lhsunyc&show_icons=true&hide_border=true"/>
+</details>
 
 [website]: https://lhsunyc.com
 [linkedin]: https://www.linkedin.com/in/yicheng-sun-2a51b0182/
