@@ -27,7 +27,7 @@
 
 <details>
     <summary>:zap: Top Language</summary>
-    <img align="left" alt="lhsunyc's Top Language Stats" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=lhsunyc)](https://github.com/lhsunyc/)"/>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhsunyc)](https://github.com/lhsunyc?tab=repositories)
 </details>
 
 [website]: https://lhsunyc.com
