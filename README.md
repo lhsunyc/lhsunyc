@@ -23,7 +23,7 @@
 <details>
   <summary>:zap: Top Language</summary>
   
-  <img align="left" alt="lhsunyc's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhsunyc&show_icons=true&hide_border=true" />
+  <img align="left" alt="lhsunyc's Top language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhsunyc&show_icons=true&hide_border=true" />
 
 </details>
 
