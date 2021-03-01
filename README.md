@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=lhsunyc.com&style=for-the-badge&up_color=green&url=https%3A%2F%2Flhsunyc.com)](https://lhsunyc.com)
 
-## I am an penultimate year software engineering student at the University of Auckland.
+## I am a final year software engineering student at the University of Auckland.
 
 - 🔭 I’m currently working on Java development
 - 🌱 I’m currently learning software architecture and operating system!
