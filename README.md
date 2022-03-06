@@ -2,13 +2,8 @@
 
 [![Website](https://img.shields.io/website?label=lhsunyc.com&style=for-the-badge&up_color=green&url=https%3A%2F%2Flhsunyc.com)](https://lhsunyc.com)
 
-## I am a final year software engineering student at the University of Auckland.
+## I am a graduate software engineer who studied at the University of Auckland.
 
-- 🔭 I’m currently working on Java development
-- 🌱 I’m currently learning software architecture and operating system!
-- 🤔 I’m looking for help with Java Spring Framwork (or any similar framwork).
-- 😄 Pronouns: He and Him
-- ⚡ Fun fact: I play games -.-
 
 ### Connect with me:
 
@@ -55,4 +50,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 🔭 I’m currently working on Java development
+- 🌱 I’m currently learning software architecture and operating system!
+- 🤔 I’m looking for help with Java Spring Framwork (or any similar framwork).
+- 😄 Pronouns: He and Him
+- ⚡ Fun fact: I play games -.-
 -->
